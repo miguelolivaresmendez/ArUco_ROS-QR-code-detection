@@ -1,0 +1,4 @@
+<launch>
+  <node name="aruco_ueye" pkg="aruco" type="aruco" args="camera/image 0.197 ueyeXS.yml">
+  </node> 
+</launch>

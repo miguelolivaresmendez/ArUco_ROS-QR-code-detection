@@ -1,0 +1,4 @@
+<launch>
+  <node name="aruco_ueye" pkg="aruco" type="aruco" args="vrep/QRfrontCameraData 1.1750 vrep.yml">
+  </node> 
+</launch>

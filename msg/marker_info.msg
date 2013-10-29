@@ -1,0 +1,12 @@
+int8 numberOfMarkers
+int8[] id
+float32[] area
+float32[] perimeter
+float32[] centerX
+float32[] centerY
+float32[] rotX
+float32[] rotY
+float32[] rotZ
+float32[] distance
+float32[] trsX
+float32[] trsY

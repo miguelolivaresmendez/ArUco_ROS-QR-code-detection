@@ -1,0 +1,4 @@
+<launch>
+  <node name="aruco_ueye" pkg="aruco" type="aruco" args="ardrone/image_raw 0.37 ArdroneBottom.yml">
+  </node> 
+</launch>
